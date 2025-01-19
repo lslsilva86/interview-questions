@@ -1,7 +1,3 @@
-## **React.js**:
-
-**Basic Concepts**:
-
 <details>
 <summary>
 1. How does React's Virtual DOM improve performance compared to direct DOM manipulation?</summary>
